@@ -1,0 +1,10 @@
+D:\c#\AplikasiLatihanTIga\bin\Debug\AplikasiLatihanTIga.exe.config
+D:\c#\AplikasiLatihanTIga\bin\Debug\AplikasiLatihanTIga.exe
+D:\c#\AplikasiLatihanTIga\bin\Debug\AplikasiLatihanTIga.pdb
+D:\c#\AplikasiLatihanTIga\obj\Debug\AplikasiLatihanTIga.csprojAssemblyReference.cache
+D:\c#\AplikasiLatihanTIga\obj\Debug\AplikasiLatihanTIga.frmLatihanTiga3.resources
+D:\c#\AplikasiLatihanTIga\obj\Debug\AplikasiLatihanTIga.Properties.Resources.resources
+D:\c#\AplikasiLatihanTIga\obj\Debug\AplikasiLatihanTIga.csproj.GenerateResource.cache
+D:\c#\AplikasiLatihanTIga\obj\Debug\AplikasiLatihanTIga.csproj.CoreCompileInputs.cache
+D:\c#\AplikasiLatihanTIga\obj\Debug\AplikasiLatihanTIga.exe
+D:\c#\AplikasiLatihanTIga\obj\Debug\AplikasiLatihanTIga.pdb
